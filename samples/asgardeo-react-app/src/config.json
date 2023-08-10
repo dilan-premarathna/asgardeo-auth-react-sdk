@@ -1,7 +1,7 @@
 {
     "clientID": "fC5PVf2zpRcsHLASahBn1enhkiEa",
     "baseUrl": "https://api.asgardeo.io/t/wso2cs",
-    "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
+    "signInRedirectURL": "https://8617a331-639d-4c32-8630-1d524a2f2600.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://8617a331-639d-4c32-8630-1d524a2f2600.e1-us-east-azure.choreoapps.dev",
     "scope": ["openid profile"]
 }
